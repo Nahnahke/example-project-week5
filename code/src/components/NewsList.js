@@ -1,5 +1,5 @@
 import React from 'react';
-import {Article} from "./components/Article.js";
+import { Article } from './Article';
 
 export const NewsList = (props) => {
 return (

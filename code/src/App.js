@@ -1,8 +1,9 @@
 import React from 'react';
 
 import data from './data.json';
-import Header from './components/Header.js';
+import { Header } from './components/Header.js';
 import { NewsList } from './components/NewsList.js';
+import { Article } from './components/Article';
 
 console.log(data);
 
